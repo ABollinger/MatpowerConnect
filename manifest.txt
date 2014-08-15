@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Extension-Name: matpowerconnect
+Class-Manager: MatpowerConnectExtension
+NetLogo-Extension-API-Version: 5.0
+Main-Class: Main
